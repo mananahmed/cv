@@ -52,6 +52,7 @@ table {
 
 
 body {
+	overflow-x: hidden !important;
 	font: normal normal 400;
 	font-size: 80%;
 	line-height: 1.5em;
