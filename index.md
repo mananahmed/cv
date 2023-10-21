@@ -23,11 +23,11 @@ title: Manan Ahmed's CV
 </button>
 ](./Manan-Ahmed's-CV.pdf)
 
-Associate Professor, Department of Hisory, Cambridge Columbia University.
+Associate Professor, Department of Hisory, Columbia University.
 
 <div id="webaddress">
 <a href="ma3179@columbia.edu">ma3179@columbia.edu</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://history.columbia.edu/person/manan-ahmed/">Faculty Page</a>
 </div>
 
 ## Education
@@ -41,16 +41,10 @@ Associate Professor, Department of Hisory, Cambridge Columbia University.
 `1991`
 **B.Sc. in Physics, University of Punjab, Lahore, Pakisan.**
 
-## Employment Record
-
-`2012`
-President, _Royal Society_, London, UK
-
-Associate, _French Academy of Science_, Paris, France
 
 ## Employment Record
 
-`2020`
+`2020-`
 
 - Associate Professor (with Tenure), Department of History, Columbia University, New York, NY.
 
@@ -73,6 +67,10 @@ Associate, _French Academy of Science_, Paris, France
 ## Selected Publications
 
 ### Books
+
+`2024`
+
+- *Disrupted City: Walking the Pathways of Memory and History in Lahore." New York, NY: New Press.
 
 `2020`
 
