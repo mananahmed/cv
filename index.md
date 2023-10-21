@@ -70,7 +70,7 @@ Associate Professor, Department of Hisory, Columbia University.
 
 `2024`
 
-- *Disrupted City: Walking the Pathways of Memory and History in Lahore." New York, NY: New Press.
+- *Disrupted City: Walking the Pathways of Memory and History in Lahore.* New York, NY: New Press.
 
 `2020`
 
