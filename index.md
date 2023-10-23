@@ -21,7 +21,7 @@ title: Manan Ahmed's CV
     <path d="M7.25 7.689V2a.75.75 0 0 1 1.5 0v5.689l1.97-1.969a.749.749 0 1 1 1.06 1.06l-3.25 3.25a.749.749 0 0 1-1.06 0L4.22 6.78a.749.749 0 1 1 1.06-1.06l1.97 1.969Z"></path>
     </svg>
 </button>
-](./Manan_Ahmed_CV.pdf)
+](./manan_ahmed.pdf)
 
 Associate Professor, Department of Hisory, Columbia University.
 
