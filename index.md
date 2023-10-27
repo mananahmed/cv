@@ -34,7 +34,7 @@ Associate Professor, Department of Hisory, Columbia University.
 
 {% include education.md %}
 
-## Employment Record
+## Employment History
 
 {% include experience.md %}
 
