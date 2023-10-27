@@ -49,7 +49,7 @@
 
 - Course: "Masterpieces of European Literature & Philosophy"
 - Level: Undergraduate Seminar for the Columbia College Core
-
+<!---
 ### Thesis Supervision
 
 **Ph.D. Sponsor**
@@ -97,3 +97,5 @@
 - Priom Ahmed ’14 (Thesis won the Taraknath Das Prize for Undergraduate Excellence in South Asian Studies)
 - Lewis Wes ’13 (Thesis won the Taraknath Das Prize for Undergraduate Excellence in South Asian Studies)
 - Sameaa Butt ’13
+
+---> 
