@@ -51,15 +51,15 @@
 - Level: Undergraduate Seminar for the Columbia College Core
 
 
-[//]: # ### Thesis Supervision
+# ### Thesis Supervision
 
-[//]: # **Ph.D. Sponsor**
+# **Ph.D. Sponsor**
 
-[//]: # - Tania Bhattacharyya, PhD received 2019 (Harvard Society of Fellows, 2019-2022)
-[//]: # - Rahul Sarwate, PhD received 2020 (Assistant Professor, Ahmedabad University)
-[//]: # - Sayantani Mukherjee, PhD received 2021 (Assistant Professor, Ashoka University)
-[//]: # - Laura Yan, G07
-[//]: # - Joslyn DeVinney, G07
+- Tania Bhattacharyya, PhD received 2019 (Harvard Society of Fellows, 2019-2022)
+- Rahul Sarwate, PhD received 2020 (Assistant Professor, Ahmedabad University)
+- Sayantani Mukherjee, PhD received 2021 (Assistant Professor, Ashoka University)
+- Laura Yan, G07
+- Joslyn DeVinney, G07
 
 **Ph.D. Committee Member, Columbia or at other Institutions**
 
