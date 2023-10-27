@@ -1,4 +1,4 @@
-`2020`
+`2020-`
 
 - Associate Professor (with Tenure), Department of History, Columbia University, New York, NY.
 
