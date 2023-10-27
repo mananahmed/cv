@@ -49,16 +49,17 @@
 
 - Course: "Masterpieces of European Literature & Philosophy"
 - Level: Undergraduate Seminar for the Columbia College Core
-<!---
-### Thesis Supervision
 
-**Ph.D. Sponsor**
 
-- Tania Bhattacharyya, PhD received 2019 (Harvard Society of Fellows, 2019-2022)
-- Rahul Sarwate, PhD received 2020 (Assistant Professor, Ahmedabad University)
-- Sayantani Mukherjee, PhD received 2021 (Assistant Professor, Ashoka University)
-- Laura Yan, G07
-- Joslyn DeVinney, G07
+[//]: # ### Thesis Supervision
+
+[//]: # **Ph.D. Sponsor**
+
+[//]: # - Tania Bhattacharyya, PhD received 2019 (Harvard Society of Fellows, 2019-2022)
+[//]: # - Rahul Sarwate, PhD received 2020 (Assistant Professor, Ahmedabad University)
+[//]: # - Sayantani Mukherjee, PhD received 2021 (Assistant Professor, Ashoka University)
+[//]: # - Laura Yan, G07
+[//]: # - Joslyn DeVinney, G07
 
 **Ph.D. Committee Member, Columbia or at other Institutions**
 
@@ -97,5 +98,4 @@
 - Priom Ahmed ’14 (Thesis won the Taraknath Das Prize for Undergraduate Excellence in South Asian Studies)
 - Lewis Wes ’13 (Thesis won the Taraknath Das Prize for Undergraduate Excellence in South Asian Studies)
 - Sameaa Butt ’13
-
 ---> 
