@@ -51,9 +51,9 @@
 - Level: Undergraduate Seminar for the Columbia College Core
 
 
-# ### Thesis Supervision
+### Thesis Supervision
 
-# **Ph.D. Sponsor**
+**Ph.D. Sponsor**
 
 - Tania Bhattacharyya, PhD received 2019 (Harvard Society of Fellows, 2019-2022)
 - Rahul Sarwate, PhD received 2020 (Assistant Professor, Ahmedabad University)
