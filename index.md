@@ -26,10 +26,8 @@ title: Manan Ahmed CV
 ### Associate Professor
 ### Department of History
 ### Columbia University
-<div id="webaddress">
-<a href="ma3179@columbia.edu">ma3179@columbia.edu</a>
-| <a href="https://history.columbia.edu/person/manan-ahmed/">Faculty Page</a>
-</div>
+### ma3179@columbia.edu
+### https://history.columbia.edu/person/manan-ahmed/
 
 ## Education
 
