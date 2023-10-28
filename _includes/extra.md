@@ -1,6 +1,5 @@
-### Service Related Professional Activities
 
-## Departmental & University Service
+### Departmental & University Service
 I serve on the Executive Commmittees (or Boards) of: Committee on Global Thought, Center for Race and Ethnicity, Center for Spatial Research, SOF/Heyman Center, South Asia Institute.
 
 Other service obligations are listed below:
@@ -46,7 +45,7 @@ Other service obligations are listed below:
 - Spending Priority Committee, Graduate Admissions Committee
 - Spending Priority Committee, Graduate Admissions Committee
 
-## Service to the Discipline
+### Service to the Discipline
 I serve on the Editorial Boards for Journals *Philological Encounters* (Brill), *Comparative Studies in South Asia, Africa, and the Middle East* (Duke) and *'Usur al Wusta'* (Columbia) and the Board of Trustees for *Asian American Writers Workshop* and *South Asian Avant-Garde*.
 
 `2021-2024`
@@ -68,7 +67,7 @@ I serve on the Editorial Boards for Journals *Philological Encounters* (Brill), 
 - Member, Board of Trustees, American Institute of Pakistan Studies.
 - Manuscript reviewer Hurst Publications, Oxford University Press, Yale University Press, Cambridge University Press, IB Tauris, Journal for Asian Studies.
 
-## Organized Conferences & Workshops
+### Organized Conferences & Workshops
 
 `2024`
 - *New Mughal Historiography.* Co-organized with Jane Mikkelson. Yale University.
@@ -103,9 +102,9 @@ I serve on the Editorial Boards for Journals *Philological Encounters* (Brill), 
 `2005`
 - *Scared Cows: Traversing History and Religion in South Asia.* University of Chicago.
 
-## Scholarly Public Outreach
+### Scholarly Public Outreach
 
-## Op-Eds
+#### Op-Eds
 `2017`
 - "Half a Cheer for Democracy in Pakistan," *The New York Times*, March 20, 2017.
 `2013`
@@ -113,7 +112,7 @@ I serve on the Editorial Boards for Journals *Philological Encounters* (Brill), 
 `2013`
 - "A Stranger on Lenox Avenue," *The New York Times*, September 27, 2013.
 
-## Essays
+#### Essays
 `2018`
 - "The early champions of anti-Ahmadi cause,"*The Herald*, Pakistan, October 2018.
 `2017`
@@ -135,7 +134,6 @@ I serve on the Editorial Boards for Journals *Philological Encounters* (Brill), 
 * German: ILR Level 3+
 * French: ILR Level 3+
 * Sindhi: ILR Level 3+
-* Bangla: ILR Level 3+
 * Spanish: ILR Level 2+
 * Portuguese: ILR Level 2+
 *proficiency rated using the Interagency Language Roundtable Scale (ILR)*
