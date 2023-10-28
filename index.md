@@ -43,7 +43,7 @@ title: Manan Ahmed CV
 
 {% include publications.md %}
 
-## Selected Grants & Contracts
+## Selected Grants
 
 {% include grants.md %}
 
