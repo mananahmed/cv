@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Manan Ahmed's CV
+title: Manan Ahmed CV
 ---
 
 # Manan Ahmed
-## Associate Professor
-## Department of Hisory
-## Columbia University.
-### ma3179@columbia.edu
+# Associate Professor
+# Department of Hisory
+# Columbia University.
+# ma3179@columbia.edu
 
 [<button type="button" aria-label="Download raw content" class="" style="margin-top:8px">
     <svg
