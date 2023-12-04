@@ -21,7 +21,7 @@ title: Manan Ahmed CV
     <path d="M7.25 7.689V2a.75.75 0 0 1 1.5 0v5.689l1.97-1.969a.749.749 0 1 1 1.06 1.06l-3.25 3.25a.749.749 0 0 1-1.06 0L4.22 6.78a.749.749 0 1 1 1.06-1.06l1.97 1.969Z"></path>
     </svg>
 </button>
-](./manan_ahmed.pdf)
+](./manan_ahmed2.pdf)
 <div id="webaddress">
 Associate Professor, Department of History, Columbia University
 | <a href="https://history.columbia.edu/person/manan-ahmed/">Faculty Page</a>
