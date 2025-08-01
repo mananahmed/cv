@@ -1,3 +1,7 @@
+`2025-`
+
+- Professor (with Tenure), Department of History, Columbia University, New York, NY.
+  
 `2020-`
 
 - Associate Professor (with Tenure), Department of History, Columbia University, New York, NY.
