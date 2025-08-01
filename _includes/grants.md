@@ -1,8 +1,8 @@
-`2021`
+`2019-2025`
 
-- **"Revealing the Archives of the Malcolm X and Dr. Betty Shabazz Memorial and Educational Center"**
-- Co-recipient: Susan McGregor
-- Funding: $1,500 from Data Science Institute.
+- **"Decolonization, the Disciplines, and the University"**
+- Collaborators: Mahmood Mamdani (Columbia), Rosinka Chaudhuri (Centre for Studies in Social Sciences Kolkata), Dzodzi Tsikata (University of Ghana), Samer Frangie (CAMES, American University of Beirut)
+- Funding: $1,500,000 from The Andrew W. Mellon Foundation.
 
 `2021-2024`
 
@@ -10,17 +10,19 @@
 - Collaborators: Christophe Jaffrelot (Science Po), Bernard Haykel (Princeton)
 - Funding: $300,000 from Henry Luce Foundation.
 
+  
+`2021`
+
+- **"Revealing the Archives of the Malcolm X and Dr. Betty Shabazz Memorial and Educational Center"**
+- Co-recipient: Susan McGregor
+- Funding: $1,500 from Data Science Institute.
+
 `2020`
 
-- **"Worlds at Wase: Air, Water, Land, and the Public in Asia and Africa"**
+- **"Worlds at Waste: Air, Water, Land, and the Public in Asia and Africa"**
 - Collaborator: Kavita Sivaramakrishnan (History and Public Health)
 - Funding: $20,000 from Institute for Social and Economic Research and Policy.
 
-`2019-2024`
-
-- **"Decolonization, the Disciplines, and the University"**
-- Collaborators: Mahmood Mamdani (Columbia), Rosinka Chaudhuri (Centre for Studies in Social Sciences Kolkata), Dzodzi Tsikata (University of Ghana), Samer Frangie (CAMES, American University of Beirut)
-- Funding: $1,500,000 from The Andrew W. Mellon Foundation.
 
 `2019-2020`
 
