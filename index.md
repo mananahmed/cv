@@ -23,7 +23,7 @@ title: Manan Ahmed CV
 </button>
 ](./manan_ahmed2.pdf)
 <div id="webaddress">
-Associate Professor, Department of History, Columbia University
+Professor, Department of History, Columbia University
 | <a href="https://history.columbia.edu/person/manan-ahmed/">Faculty Page</a>
 </div>
 
